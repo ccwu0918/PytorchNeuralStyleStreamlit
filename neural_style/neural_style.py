@@ -4,7 +4,7 @@ import sys
 import time
 import re
 
-import numpy as np
+#import numpy as np
 import torch
 from torch.optim import Adam
 from torch.utils.data import DataLoader
@@ -31,7 +31,7 @@ def check_paths(args):
 def train(args):
     device = torch.device("cuda" if args.cuda else "cpu")
 
-    np.random.seed(args.seed)
+    #np.random.seed(args.seed)
     torch.manual_seed(args.seed)
 
     transform = transforms.Compose([
