@@ -8,10 +8,10 @@
 #numpy==1.20.1
 #pandas==1.2.2
 #Pillow==8.1.0
-#streamlit
+streamlit
 torch
 #torchaudio
 torchvision
-#pandas
-#Pillow
-numpy==1.22.2
+# pandas
+# Pillow
+# numpy==1.22.2
