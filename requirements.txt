@@ -1,4 +1,6 @@
 # streamlit==0.76.0
+# tensorflow-hub==0.12.0
+# tensorflow==2.5.0
 streamlit
-tensorflow-hub==0.12.0
-tensorflow==2.5.0
+tensorflow-hub
+tensorflow
