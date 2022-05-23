@@ -3,7 +3,7 @@ import streamlit as st
 from PIL import Image
 import os
 import torch
-from transformer_net import TransformerNet
+
 #from neural_style import neural_style
 #from neural_style import * #check_paths, train, stylize, stylize_onnx_caffe2, main
 
