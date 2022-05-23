@@ -1,10 +1,17 @@
 # streamlit==0.76.0
 # tensorflow-hub==0.12.0
 # tensorflow==2.5.0
+#streamlit==0.76.0
+#torch==1.7.1
+#torchaudio==0.7.2
+#torchvision==0.8.2
+#numpy==1.20.1
+#pandas==1.2.2
+#Pillow==8.1.0
 streamlit
-torch==1.7.1
-torchaudio==0.7.2
-torchvision==0.8.2
-numpy==1.20.1
-pandas==1.2.2
-Pillow==8.1.0
+torch
+torchaudio
+torchvision
+numpy
+pandas
+Pillow
